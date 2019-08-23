@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial",
+  "title": "mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial",
+  "keywords": "mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial, esp32, esp8266, arduino",
+  "description": "mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mcp23017-i2c-serial-interface-16-bit-i-o-expander-serial/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
